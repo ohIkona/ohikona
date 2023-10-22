@@ -10,11 +10,6 @@
 
 <div align="center">
  
-socials:
-
-twitter : https://twitter.com/ohikona
-youtube : https://youtube.com/@ohikona
- 
 </div>
 
 <br/>
