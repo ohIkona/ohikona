@@ -5,7 +5,9 @@
 </h1>
 
 <h3 align="center">A passionate software developer from France</h3>
-
+im a top 500 splatoon player
+.52 main
+trying to create the best win iso possible
 <br/>
 
 <div align="center">
